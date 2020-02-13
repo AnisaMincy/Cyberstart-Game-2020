@@ -1,0 +1,18 @@
+L1 C1
+Goal: Find the decrypted refrence number containing the word BAR
+Instructions: Use a Ceasar cipher to find out the number. There are numerous online. Remeber it has to start with BAR.
+
+
+L1 C2
+Goal: Get the correct age
+Instructions: Look at the username for the DOB. Subtract from 2020.
+
+
+L1 C3
+Goal:Click on the dodgy part of the email
+Instructions: Look at the domain names (from: to:) the one with the spelling mistake will lead you to the flag.
+
+
+L1 C4
+Goal:Decode the message
+Instructions: 
